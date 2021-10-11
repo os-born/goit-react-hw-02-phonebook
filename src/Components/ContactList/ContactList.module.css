@@ -1,0 +1,22 @@
+.deleteBtn {
+  width: 60px;
+  height: 20px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.contactList {
+  text-align: center;
+}
+
+.contactList__item {
+  text-decoration-style: dotted;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactList__itemText {
+  justify-content: center;
+  align-items: center;
+}
